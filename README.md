@@ -65,7 +65,10 @@ python prediction.py
 
 ## Business Dashboard
 
-Link: [Business Dashboard](https://lookerstudio.google.com/reporting/5cfdfc59-2481-4de8-a6ed-21eb2e9715c1)
+
+Dashboard Link: [Business Dashboard](https://lookerstudio.google.com/reporting/5cfdfc59-2481-4de8-a6ed-21eb2e9715c1)
+![image](nurrizkyarumjatmiko-dashboard.jpg)
+
 
 **Description:**
 This business dashboard was developed using **Looker Studio** as an interactive data visualization platform. Its main objectives are:
